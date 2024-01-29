@@ -1,4 +1,3 @@
-# odin-recipes
-Odin Recipe Project!
-Is an application of and should display my new html skills through building a website
+# family-recipes
+This is an on-going project that is a collection of dishes my family makes and should display my html skills through building a website
 to make paragraphs, headings, links, etc. 
